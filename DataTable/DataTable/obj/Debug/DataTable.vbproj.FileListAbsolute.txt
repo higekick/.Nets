@@ -1,0 +1,11 @@
+C:\Users\User\NET\DataTable\DataTable\bin\Debug\DataTable.exe.config
+C:\Users\User\NET\DataTable\DataTable\bin\Debug\DataTable.exe
+C:\Users\User\NET\DataTable\DataTable\bin\Debug\DataTable.pdb
+C:\Users\User\NET\DataTable\DataTable\bin\Debug\DataTable.xml
+C:\Users\User\NET\DataTable\DataTable\obj\Debug\DataTable.Form1.resources
+C:\Users\User\NET\DataTable\DataTable\obj\Debug\DataTable.Resources.resources
+C:\Users\User\NET\DataTable\DataTable\obj\Debug\DataTable.vbproj.GenerateResource.Cache
+C:\Users\User\NET\DataTable\DataTable\obj\Debug\DataTable.exe
+C:\Users\User\NET\DataTable\DataTable\obj\Debug\DataTable.xml
+C:\Users\User\NET\DataTable\DataTable\obj\Debug\DataTable.pdb
+C:\Users\User\NET\DataTable\DataTable\obj\Debug\DataTable.vbprojResolveAssemblyReference.cache

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DataTable
+</name>
+</assembly>
+<members>
+<member name="M:DataTable.Form1.Form1_Load(System.Object,System.EventArgs)">
+	<summary>
+ Form_ロード
+ </summary>
+</member><member name="M:DataTable.Form1.btnAdd_Click(System.Object,System.EventArgs)">
+	<summary>
+ 行追加イベント
+ </summary>
+</member><member name="M:DataTable.Form1.btnUpd_Click(System.Object,System.EventArgs)">
+	<summary>
+ 更新イベント
+ </summary>
+</member><member name="M:DataTable.Form1.btnDel_Click(System.Object,System.EventArgs)">
+	<summary>
+ 削除イベント
+ </summary>
+</member><member name="M:DataTable.Form1.btnShow_Click(System.Object,System.EventArgs)">
+	<summary>
+ DataTableの履歴表示
+ </summary>
+</member><member name="M:DataTable.Form1.DataGridView1_RowEnter(System.Object,System.Windows.Forms.DataGridViewCellEventArgs)">
+	<summary>
+ DGV選択時、上部に反映
+ </summary>
+</member><member name="P:DataTable.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:DataTable.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:DataTable.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,11 @@
+C:\Users\User\NET\TimeSpan\TimeSpan\bin\Debug\TimeSpan.exe.config
+C:\Users\User\NET\TimeSpan\TimeSpan\bin\Debug\TimeSpan.exe
+C:\Users\User\NET\TimeSpan\TimeSpan\bin\Debug\TimeSpan.pdb
+C:\Users\User\NET\TimeSpan\TimeSpan\bin\Debug\TimeSpan.xml
+C:\Users\User\NET\TimeSpan\TimeSpan\obj\Debug\TimeSpan.Form1.resources
+C:\Users\User\NET\TimeSpan\TimeSpan\obj\Debug\TimeSpan.Resources.resources
+C:\Users\User\NET\TimeSpan\TimeSpan\obj\Debug\TimeSpan.vbproj.GenerateResource.Cache
+C:\Users\User\NET\TimeSpan\TimeSpan\obj\Debug\TimeSpan.exe
+C:\Users\User\NET\TimeSpan\TimeSpan\obj\Debug\TimeSpan.xml
+C:\Users\User\NET\TimeSpan\TimeSpan\obj\Debug\TimeSpan.pdb
+C:\Users\User\NET\TimeSpan\TimeSpan\obj\Debug\TimeSpan.vbprojResolveAssemblyReference.cache

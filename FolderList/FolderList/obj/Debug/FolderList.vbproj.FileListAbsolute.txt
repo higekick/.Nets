@@ -1,0 +1,10 @@
+C:\Users\User\NET\FolderList\FolderList\bin\Debug\FolderList.exe.config
+C:\Users\User\NET\FolderList\FolderList\bin\Debug\FolderList.exe
+C:\Users\User\NET\FolderList\FolderList\bin\Debug\FolderList.pdb
+C:\Users\User\NET\FolderList\FolderList\bin\Debug\FolderList.xml
+C:\Users\User\NET\FolderList\FolderList\obj\Debug\FolderList.Form1.resources
+C:\Users\User\NET\FolderList\FolderList\obj\Debug\FolderList.Resources.resources
+C:\Users\User\NET\FolderList\FolderList\obj\Debug\FolderList.vbproj.GenerateResource.Cache
+C:\Users\User\NET\FolderList\FolderList\obj\Debug\FolderList.exe
+C:\Users\User\NET\FolderList\FolderList\obj\Debug\FolderList.xml
+C:\Users\User\NET\FolderList\FolderList\obj\Debug\FolderList.pdb

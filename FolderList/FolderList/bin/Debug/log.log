@@ -1,0 +1,5 @@
+
+C:\Users\User\NET\FolderList\FolderList\bin\Debug>echo "test"  1>test.log 
+
+C:\Users\User\NET\FolderList\FolderList\bin\Debug>pause
+Press any key to continue . . . 
